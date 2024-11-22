@@ -9,17 +9,15 @@ This repository is a hub for my projects and resources focused on cybersecurity,
 To share projects, resources, and tools that highlight my expertise in cybersecurity, incident management, and emerging technologies. My aim is to contribute to a global community focused on advancing secure and efficient technological systems.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls and Compliance Checklist             | <a href="https://google.com">Detection Lab</a>|
-| Incident Report Analysis                      | <a href="https://google.com">Detection Lab</a>|
-| File permissions in Linux                     | SOC Automation Lab|
-| Applying Filters to SQL queries               | SOC Automation Lab|
-| Vulnerability Assesment Report                | SOC Automation Lab|
-| Incident Handler's journal                    | SOC Automation Lab|
-| Algorithm for File Updates in Python          |                            |
+| Controls and Compliance Checklist             | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#control-and-compliance-checklist)|
+| Incident Report Analysis                      | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#incident-report-analysis)|
+| File permissions in Linux                     | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#file-permissions-in-linux)|
+| Applying Filters to SQL queries               | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#applying-filters-to-sql-queries)|
+| Vulnerability Assessment Report               | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#vulnerability-assessment-report)|
+| Incident Handler's journal                    | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#incident-handlers-journal)|
+| Algorithm for File Updates in Python          | [Portfolio Activity](https://github.com/Njega-01/Portfolio-Activity?tab=readme-ov-file#algorithm-for-file-updates-in-python)|
 
 ## Tools
 ### AI Tools
@@ -40,9 +38,8 @@ To share projects, resources, and tools that highlight my expertise in cybersecu
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  
-  [![Chronicle](https://github.com/user-attachments/assets/0679f3fe-c039-48f7-b700-179a6d75d526)](https://cloud.google.com/security/products/security-operations)
-
+    
+[![Chronicle](https://github.com/user-attachments/assets/0679f3fe-c039-48f7-b700-179a6d75d526)](https://cloud.google.com/security/products/security-operations)
 </div>
 
 ## Certifications
