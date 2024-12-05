@@ -50,6 +50,8 @@ To share projects, resources, and tools that highlight my expertise in cybersecu
 
 <img src="https://github.com/user-attachments/assets/c86c3b1d-ceb5-4541-a754-a2cb80acbd3b" alt="ic-100" width="450">
 <img src="https://github.com/user-attachments/assets/379f595e-74ee-4d2c-a68f-5397c88e148c" alt="ic-100" width="450">
+<img src="https://github.com/user-attachments/assets/cf2911c2-1813-4f69-ab6b-3f2863cedc4b" alt="ic-100" width="450">
+
 
 <img src="https://github.com/user-attachments/assets/9a131bbb-761c-4038-8538-3a625931b154" alt="ic-100" width="250">
 <img src="https://github.com/user-attachments/assets/3a91befc-7c1d-4378-b054-b9646f0f1597" alt="ic-100" width="250">
